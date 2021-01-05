@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/controller/addBug.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/controller/viewTicket.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/business/User.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/controller/addTicket.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/data/ConnectionPool.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/controller/addTicketStatus.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/web/addTickets.jsp</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/data/TicketDB.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/data/BugDB.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/web/viewTickets.jsp</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/business/Ticket.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/web/login.jsp</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/data/UserDB.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/web/index.html</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/business/TicketStatus.java</file>
+            <file>file:/C:/Users/amar_/OneDrive/OneDriveDocuments/NetBeansProjects/BugTracker/src/java/business/Bug.java</file>
+        </group>
+    </open-files>
+</project-private>
